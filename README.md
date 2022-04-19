@@ -1,1 +1,2 @@
-# price-feed-ftso-connector
+# Price Feed to FTSO Connector
+This repo contains PriceFeedFtsoConnector.sol smart contract, that is used as connector between Flare Network SGB FTSO and FLR Finance Loans ecosystem. The contract fetch data from the FTSO and correct decimal precision (raise precision form 5 decimals used in FTSO to 18 decimals used in Flr Finance Loans ecosystem).
